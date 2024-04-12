@@ -945,7 +945,8 @@ textarea#message_two {
 }
 
 .select_plan_img {
-  background-image: url(/Assert/images/select_plan.png);
+  /* background-image: url(Assert/images/select_plan.png); */
+  background-image: url(../images/select_plan.png);
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
@@ -1259,7 +1260,8 @@ input#phone {
 }
 
 .contact_background {
-  background-image: url(/Assert/images/contact_bg.png);
+  /* background-image: url(/Assert/images/contact_bg.png); */
+  background-image: url(../images/contact_bg.png);
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
